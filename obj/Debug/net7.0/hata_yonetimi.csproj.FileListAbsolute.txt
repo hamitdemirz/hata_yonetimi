@@ -1,0 +1,5 @@
+D:\Hamit\yazilim\patikac\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.csproj.AssemblyReference.cache
+D:\Hamit\yazilim\patikac\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamit\yazilim\patikac\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.AssemblyInfoInputs.cache
+D:\Hamit\yazilim\patikac\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.AssemblyInfo.cs
+D:\Hamit\yazilim\patikac\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.csproj.CoreCompileInputs.cache
